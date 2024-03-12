@@ -1,0 +1,32 @@
+h1{
+    color: rgb(78, 20, 132);
+
+}
+div{
+    background-color: rgb(113, 87, 230);
+    size: 40px;
+}
+.n{
+    display: flex;
+}
+#h{
+    display: flex;
+}
+#e{
+    display: flex;
+}
+.entire{
+    display: flex;
+}
+.form{
+    width: 50%;
+}
+.Detail{
+    width:50%;
+}
+.design{
+    background-color: rgb(155, 144, 165);
+}
+#f{
+    background-color: rgb(63, 9, 113);
+}
